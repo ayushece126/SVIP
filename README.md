@@ -17,5 +17,3 @@ This repository contains the implementation of a content recommendation system a
 4. Train models: `python models/collaborative_filtering.py`
 5. Start real-time processing: `python scripts/real_time_processing.py`
 
-## License
-This project is licensed under the MIT License.
